@@ -1,0 +1,13 @@
+Bricks are used to 
+1. build the walls of buildings (e.g houses, industrial buildings etc)
+2. build the walls of drainage systems
+3. build the borders of foundations for buildings
+4. create elevated platforms for placing containers
+5. create asthetically pleasing finishes for walls which would not be painted
+
+
+A blanket is used to
+1. Keep the body warm in cold weather
+2. put out fire by cutting the oxygen flow to the flames
+3. lay beds in the absence of a proper bed cover
+4. provide a manageable platform to lie on in the absence of a bed
