@@ -1,6 +1,6 @@
 # HeathWayTech
 
-This is a web application where different you can rate books and view books that have ratings higher than 3.
+This is a web application where different users can rate books and view books that have ratings higher than 3.
 <br/>Your user name is your unique identifier and you can only rate a book once.
 
 ## Technolgies used
